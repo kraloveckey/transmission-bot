@@ -11,7 +11,6 @@ So, you want to controll your torrent status from anywhere in the world, but you
 * [List of available commands](#available-commands)
 * [How to install it](#how-to-install-it)
 * [Note](#note)
-* [Bugs, support and suggestions](#report-bugs-or-suggestions)
 
 ## Available commands
 * <b>List of all torrents</b>;
