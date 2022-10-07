@@ -216,7 +216,7 @@ Available commands:
 If you have a suggestion or discovered a bug please report me 👉 <a href="kraloveckey@gmail.com">here</a>
 <b>🤖 Bot version: ${config.bot.version}</b>
 
-Creator: <a href="http://kraloveckey.tk">kraloveckey</a>`;
+Creator: <a href="kraloveckey@gmail.com">kraloveckey</a>`;
 
 // Download the torrent list every minute
 exports.updateTorrentList();
