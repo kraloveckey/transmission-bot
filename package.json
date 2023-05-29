@@ -1,0 +1,26 @@
+{
+  "name": "transmission-bot",
+  "version": "0.1.0",
+  "description": "Simple Telegram bot written on JavaScript that controls the status of your torrents.",
+  "main": "bot.js",
+  "scripts": {
+    "bot": "node bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kraloveckey/transmission-bot.git"
+  },
+  "author": "kraloveckey",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kraloveckey/transmission-bot/issues"
+  },
+  "homepage": "https://github.com/kraloveckey/transmission-bot#readme",
+  "dependencies": {
+    "date-and-time": "^0.3.0",
+    "handlebars": "^4.0.5",
+    "node-telegram-bot-api": "^0.23.3",
+    "prettysize": "0.0.3",
+    "transmission": "^0.4.5"
+  }
+}

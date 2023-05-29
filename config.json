@@ -1,0 +1,15 @@
+{
+    "bot": {
+        "token": "TOKEN_BOT",
+        "users": [USER_ID],
+        "version": "1.0.0"
+    },
+    "transmission": {
+        "address": "127.0.0.1",
+        "credentials": {
+            "username": "transmission",
+            "password": "transmission"
+        },
+        "port": 9091
+    }
+}
